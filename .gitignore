@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+
+Scripts/
+etc/
+pyvenv.cfg
+share/
+datasets/
+nbs/.ipynb_checkpoints
+
+
 # Distribution / packaging
 .Python
 build/
